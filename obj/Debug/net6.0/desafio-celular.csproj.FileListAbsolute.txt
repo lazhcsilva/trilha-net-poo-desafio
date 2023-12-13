@@ -1,0 +1,15 @@
+/home/lazaro/dev/projetos/desafio-celular/bin/Debug/net6.0/desafio-celular
+/home/lazaro/dev/projetos/desafio-celular/bin/Debug/net6.0/desafio-celular.deps.json
+/home/lazaro/dev/projetos/desafio-celular/bin/Debug/net6.0/desafio-celular.runtimeconfig.json
+/home/lazaro/dev/projetos/desafio-celular/bin/Debug/net6.0/desafio-celular.dll
+/home/lazaro/dev/projetos/desafio-celular/bin/Debug/net6.0/ref/desafio-celular.dll
+/home/lazaro/dev/projetos/desafio-celular/bin/Debug/net6.0/desafio-celular.pdb
+/home/lazaro/dev/projetos/desafio-celular/obj/Debug/net6.0/desafio-celular.csproj.AssemblyReference.cache
+/home/lazaro/dev/projetos/desafio-celular/obj/Debug/net6.0/desafio-celular.GeneratedMSBuildEditorConfig.editorconfig
+/home/lazaro/dev/projetos/desafio-celular/obj/Debug/net6.0/desafio-celular.AssemblyInfoInputs.cache
+/home/lazaro/dev/projetos/desafio-celular/obj/Debug/net6.0/desafio-celular.AssemblyInfo.cs
+/home/lazaro/dev/projetos/desafio-celular/obj/Debug/net6.0/desafio-celular.csproj.CoreCompileInputs.cache
+/home/lazaro/dev/projetos/desafio-celular/obj/Debug/net6.0/desafio-celular.dll
+/home/lazaro/dev/projetos/desafio-celular/obj/Debug/net6.0/ref/desafio-celular.dll
+/home/lazaro/dev/projetos/desafio-celular/obj/Debug/net6.0/desafio-celular.pdb
+/home/lazaro/dev/projetos/desafio-celular/obj/Debug/net6.0/desafio-celular.genruntimeconfig.cache
