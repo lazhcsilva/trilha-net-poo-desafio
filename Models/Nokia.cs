@@ -14,8 +14,6 @@ namespace desafio_celular.Models
         public override void InstalarAplicativo(string nome)
         {
             Console.WriteLine("Instalando o aplicativo \"" + nome + "\" no Nokia");
-            Console.WriteLine();
-            Console.WriteLine();
         }
     }
 }
